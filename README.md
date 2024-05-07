@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, ETL
 - 💞️ I’m looking to collaborate on End-to-End Data Analytics Projects
-- 📫 How to reach me prasadmali251@gmail.com 
+- 📫 Reach me prasadmali251@gmail.com 
   
 
 <!---
